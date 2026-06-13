@@ -639,7 +639,7 @@ document.addEventListener('DOMContentLoaded', () => {
             e.preventDefault();
             
             // Open Google Drive resume link in new tab
-            const resumeUrl = "https://drive.google.com/file/d/1IP780sOA8hfaItERvghTemGe76_U3n8U/view?usp=drivesd";
+            const resumeUrl = "https://drive.google.com/file/d/1tHPiRqKrJ_wfXwc6KBcmMFkzVStB_s-h/view?usp=drivesdk";
             window.open(resumeUrl, '_blank', 'noopener,noreferrer');
         });
     }
